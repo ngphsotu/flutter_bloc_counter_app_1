@@ -1,17 +1,3 @@
 # flutter_bloc_counter_app_1
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_bloc_counter_app_1
+![flutter bloc counter app file](https://user-images.githubusercontent.com/52483128/209228687-f73c9154-3485-451a-a6c8-e3a4b0d1143f.png)
